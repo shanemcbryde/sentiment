@@ -1,7 +1,9 @@
 Airline Passenger Reviews Sentiment & Amenity Analysis
+
 This project investigates airline passenger satisfaction through a dual-segmentation lens, analyzing how seating class and passenger type jointly influence experience quality. It combines sentiment analysis of passenger reviews with a statistical evaluation of amenity scores to uncover where airlines excel, where they falter, and how different passenger segments respond.
 
 📊 Overview
+
 The project is divided into two core components:
 - Sentiment Analysis
 A neural network is trained to classify passenger sentiment based on review text, using seating class and passenger type as contextual features. The goal is to predict whether a passenger would recommend the airline.
@@ -67,6 +69,7 @@ Additional variables such as travel period and overall rating were collected but
 - Seating class and passenger type were inferred from structured metadata
 
 📚 Citation
+
 This project uses publicly available data from Skytrax for academic purposes under fair use. A-Z Airline reviews - SKYTRAX. (2025). SKYTRAX. https://www.airlinequality.com/review-pages/a-z-airline-reviews/
 
 🛠️ Tools Used
