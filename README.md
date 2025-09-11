@@ -95,3 +95,11 @@ Skytrax. (2025). *A-Z Airline Reviews*. Retrieved from [https://www.airlinequali
 - Scikit-learn (Model Evaluation & Metrics)  
 - Seaborn & Matplotlib (Visualization)  
 - BeautifulSoup & Requests (Web Scraping)
+
+## 📖 References
+
+### Third-Party Code
+
+- Tam, A. (2023, April 7). *Use PyTorch Deep Learning Models with scikit-learn*. Guiding Tech Media. Retrieved from [https://machinelearningmastery.com/use-pytorch-deep-learning-models-with-scikit-learn/](https://machinelearningmastery.com/use-pytorch-deep-learning-models-with-scikit-learn/)
+
+- GeeksforGeeks. (2024, December 27). *How to remove string accents using Python 3*. Sanchhaya Education Pvt. Ltd. Retrieved from [https://www.geeksforgeeks.org/how-to-remove-string-accents-using-python-3/](https://www.geeksforgeeks.org/how-to-remove-string-accents-using-python-3/)
