@@ -75,13 +75,14 @@ Additional variables such as travel period and overall rating were collected but
 
 ## ⚠️ Limitations
 
-- Reviews are self-reported and may contain bias  
-- Only English-language reviews were used  
-- Seating class and passenger type were inferred from structured metadata  
+- Passenger reviews are inherently subjective and reflect personal experiences, expectations, and emotions. While this makes them valuable for sentiment analysis, it also means they may not represent a balanced or comprehensive view of all passengers.
+- Only English-language reviews were used, which may exclude perspectives from non-English-speaking travelers.
+- Seating class and passenger type were extracted from structured metadata on the review pages, not explicitly stated by passengers in the review text.  
 
 ## 📚 Citation
 
-This project uses publicly available data from Skytrax for academic purposes under fair use. A-Z Airline reviews - SKYTRAX. (2025). SKYTRAX. https://www.airlinequality.com/review-pages/a-z-airline-reviews/
+This project uses publicly available data from Skytrax for academic purposes under fair use.
+Skytrax. (2025). *A-Z Airline Reviews*. Retrieved from [https://www.airlinequality.com/review-pages/a-z-airline-reviews/](https://www.airlinequality.com/review-pages/a-z-airline-reviews/)
 
 ## 🛠️ Tools Used
 
