@@ -81,7 +81,20 @@ Additional variables such as travel period and overall rating were collected but
 
 ## 🛠️ Tools Used
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat)](https://pytorch.org) [![Skorch](https://img.shields.io/badge/Skorch-Model_Wrapper-blue?style=flat)](https://skorch.readthedocs.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://python.org) [![NLTK](https://img.shields.io/badge/NLTK-Text_Processing-green?style=flat)](https://www.nltk.org) [![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat)](https://spacy.io) [![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?style=flat)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat)](https://numpy.org) [![SciPy](https://img.shields.io/badge/SciPy-Statistical_Testing-blue?style=flat)](https://scipy.org) [![Statsmodels](https://img.shields.io/badge/Statsmodels-Post_Hoc_Analysis-darkgreen?style=flat)](https://www.statsmodels.org) [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Metrics-F7931E?style=flat)](https://scikit-learn.org) [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat)](https://matplotlib.org) [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Plots-76B900?style=flat)](https://seaborn.pydata.org) [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web_Scraping-8B008B?style=flat)](https://www.crummy.com/software/BeautifulSoup/) [![Requests](https://img.shields.io/badge/Requests-HTTP_Client-20232A?style=flat)](https://docs.python-requests.org)
+[![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=Deep_Learning&labelColor=EE4C2C&color=gray)](https://pytorch.org)
+[![Skorch](https://img.shields.io/static/v1?label=Skorch&message=Model_Wrapper&labelColor=0000FF&color=gray)](https://skorch.readthedocs.io/)
+[![Python](https://img.shields.io/static/v1?label=Python&message=Programming_Language&labelColor=3776AB&color=gray)](https://python.org)
+[![NLTK](https://img.shields.io/static/v1?label=NLTK&message=Text_Processing&labelColor=76B900&color=gray)](https://www.nltk.org)
+[![spaCy](https://img.shields.io/static/v1?label=spaCy&message=NLP&labelColor=09A3D5&color=gray)](https://spacy.io)
+[![Pandas](https://img.shields.io/static/v1?label=Pandas&message=Data_Handling&labelColor=150458&color=gray)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/static/v1?label=NumPy&message=Numerical_Computing&labelColor=013243&color=gray)](https://numpy.org)
+[![SciPy](https://img.shields.io/static/v1?label=SciPy&message=Statistical_Testing&labelColor=0000FF&color=gray)](https://scipy.org)
+[![Statsmodels](https://img.shields.io/static/v1?label=Statsmodels&message=Post_Hoc_Analysis&labelColor=006400&color=gray)](https://www.statsmodels.org)
+[![Scikit-learn](https://img.shields.io/static/v1?label=Scikit--Learn&message=Metrics&labelColor=F7931E&color=gray)](https://scikit-learn.org)
+[![Matplotlib](https://img.shields.io/static/v1?label=Matplotlib&message=Visualization&labelColor=11557C&color=gray)](https://matplotlib.org)
+[![Seaborn](https://img.shields.io/static/v1?label=Seaborn&message=Statistical_Plots&labelColor=76B900&color=gray)](https://seaborn.pydata.org)
+[![BeautifulSoup](https://img.shields.io/static/v1?label=BeautifulSoup&message=Web_Scraping&labelColor=8B008B&color=gray)](https://www.crummy.com/software/BeautifulSoup/)
+[![Requests](https://img.shields.io/static/v1?label=Requests&message=HTTP_Client&labelColor=20232A&color=gray)](https://docs.python-requests.org)
 
 ## 📚 Citation
 
