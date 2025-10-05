@@ -2,6 +2,9 @@
 
 This project investigates airline passenger satisfaction through a dual-segmentation lens, analyzing how seating class and passenger type jointly influence experience quality. It combines sentiment analysis of passenger reviews with a statistical evaluation of amenity scores to uncover where airlines excel, where they falter, and how different passenger segments respond.
 
+**[View Jupyter Notebook](https://github.com/shanemcbryde/sentiment/blob/main/Sentiment%20Analysis%20of%20Airline%20Passenger%20Reviews.ipynb)** 🚀
+**[Scrape Airline Reviews Code](https://github.com/shanemcbryde/sentiment/blob/main/Scrape%20Airline%20Reviews.ipynb)**
+
 ## 📊 Overview
 
 The project is divided into two core components:
