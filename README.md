@@ -52,11 +52,13 @@ Additional variables such as travel period and overall rating were collected but
 
 ## 🧹 Data Preprocessing
 
-- Removed duplicate reviews and those with missing amenity scores  
-- Normalized and tokenized review content using NLTK and spaCy  
-- Applied negation marking and contraction expansion  
-- Converted categorical variables to numeric formats  
-- Equalized list lengths across all features    
+- Removed duplicate reviews and handled null values  
+- Standardized text via lowercase conversion, contraction expansion, and accent removal  
+- Applied negation tagging to preserve sentiment context  
+- Performed lemmatization, stop word removal, and tokenization  
+- Vectorized text data and applied padding and sequence truncation for uniform input length  
+- Partitioned dataset into training, validation, and test subsets  
+- Preserved original indices for traceability and consistency    
 
 ## 🔍 Key Insights
 
