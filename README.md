@@ -52,12 +52,11 @@ Additional variables such as travel period and overall rating were collected but
 
 ## 🧹 Data Preprocessing
 
-- Removed reviews with missing text  
+- Removed duplicate reviews and those with missing amenity scores  
 - Normalized and tokenized review content using NLTK and spaCy  
 - Applied negation marking and contraction expansion  
 - Converted categorical variables to numeric formats  
-- Equalized list lengths across all features  
-- Applied statistical cleaning to amenity scores  
+- Equalized list lengths across all features    
 
 ## 🔍 Key Insights
 
